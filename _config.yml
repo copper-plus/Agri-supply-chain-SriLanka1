@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Agri supply chain SriLanka
+description: Deep analysis of Agri supply chain in Sri Lanaka.
 github_username: copper-plus
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Agri-supply-chain-SriLanka"
@@ -39,8 +39,8 @@ baseurl: "/Agri-supply-chain-SriLanka" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    facebook: Legatorsolution
+    github: copper-plus
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -71,9 +71,9 @@ include:
 
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
-  github: true
-  binder: true
-  colab: true
+  # github: true
+  # binder: true
+  # colab: true
 
 # Escape HTML in post descriptions
 html_escape:
